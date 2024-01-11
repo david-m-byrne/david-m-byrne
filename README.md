@@ -1,5 +1,4 @@
-### Hi there 👋
-
+The primary focus of <a href = "https://david-m-byrne.github.io/david-m-byrne/">my research</a> is information technology innovation and its effects on economic growth and the organization of economic activity. If you're working in this area, I'd be interested to hear about it
 <!--
 **david-m-byrne/david-m-byrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
